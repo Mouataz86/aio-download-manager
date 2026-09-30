@@ -102,8 +102,8 @@
 ## 👨‍💻 Developer & Support
 
 * **Developer**: **MO3IZO**
-* **Official Website**: [dev.mo3izo-tech.tk](https://dev.mo3izo-tech.tk)
-* **Support Email**: [support@mo3izo-tech.tk](mailto:support@mo3izo-tech.tk)
+* **Official Website**: [dev.mo3izo-tech.win](https://dev.mo3izo-tech.win)
+* **Support Email**: [support@mo3izo-tech.win](mailto:support@mo3izo-tech.win)
 * **Repository**: [github.com/Mouataz86/aio-download-manager](https://github.com/Mouataz86/aio-download-manager)
 
 <div align="center">
